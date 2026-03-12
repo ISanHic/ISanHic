@@ -9,7 +9,7 @@
 ###  Tools:
 
 * Git & GitHub
-* Basic scripting
+* Basic scripting (HTML, CSS, soon javascript)
 * General programming tools
 
 ###  Fun Facts:
@@ -31,7 +31,7 @@
 ###  Herramientas:
 
 * Git y GitHub
-* Scripting básico
+* Scripting básico (HTML, CSS, proximamente javascript)
 * Herramientas generales de programación
 
 ###  Datos curiosos:
