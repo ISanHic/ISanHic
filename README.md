@@ -14,10 +14,10 @@
 
 ###  Fun Facts:
 
-* I like anime.
-* I play osu! sometimes.
-* I enjoy clean and aesthetic setups.
-* I have one dog 🐶
+* 🎌 I like anime.
+* 🎮 I play osu! sometimes.
+* 🎨 I enjoy clean and aesthetic setups.
+* 🐶 I have a dog.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ###  Datos curiosos:
 
-* Me gusta el anime.
-* A veces juego osu!.
-* Me gustan los setups limpios y estéticos.
-* Tengo un perro 🐶
+* 🎌 Me gusta el anime.
+* 🎮 A veces juego osu!.
+* 🎨 Me gustan los setups limpios y estéticos.
+* 🐶 Tengo un perro
