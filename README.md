@@ -18,6 +18,7 @@
 * 🎮 I play osu! sometimes.
 * 🎨 I enjoy clean and aesthetic setups.
 * 🐶 I have a dog.
+* 🏁 I speedrun SM64 (Super Mario 64)
 
 ---
 
@@ -41,3 +42,4 @@
 * 🎮 A veces juego osu!.
 * 🎨 Me gustan los setups limpios y estéticos.
 * 🐶 Tengo un perro
+* 🏁 Hago speedrun de SM64 (Super Mario 64)
