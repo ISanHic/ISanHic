@@ -1,30 +1,41 @@
-## Hey There 👨‍🍳
+## Hi, I'm Isaac 👋
 
-i'm Isaac, a web developer.
+###  About Me:
 
-I try to create almost everything I imagine, in order to develop myself as a programmer.
+* I enjoy programming and learning new technologies.
+* Interested in software, problem solving, and building useful things.
+* Always trying to improve my skills and explore new ideas.
 
-I like to look at the work done by others and adapt it to my style. (I know that this practice will give me a lot of inspiration later on).
+###  Tools:
 
-My main tech stack is HTML, CSS, and soon JavaScript and React.
+* Git & GitHub
+* Basic scripting
+* General programming tools
 
+###  Fun Facts:
 
-Fun Facts:
-  I like the videogames.
-  I have one dog.
-  Bleach is my favorite anime.
-  Hobbies: anime, play guitar, play games.
-<!--
-**ISanHic/ISanHic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I like anime.
+* I play osu! sometimes.
+* I enjoy clean and aesthetic setups.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hola, soy Isaac 👋
+
+###  Sobre mí:
+
+* Me gusta programar y aprender nuevas tecnologías.
+* Me interesa el software, resolver problemas y crear cosas útiles.
+* Siempre intento mejorar mis habilidades y explorar nuevas ideas.
+
+###  Herramientas:
+
+* Git y GitHub
+* Scripting básico
+* Herramientas generales de programación
+
+###  Datos curiosos:
+
+* Me gusta el anime.
+* A veces juego osu!.
+* Me gustan los setups limpios y estéticos.
