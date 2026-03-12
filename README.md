@@ -1,4 +1,4 @@
-## Hi, I'm Isaac 👋
+## Hi, I'm Isaac 👋 (en)
 
 ###  About Me:
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Hola, soy Isaac 👋
+## Hola, soy Isaac 👋 (es)
 
 ###  Sobre mí:
 
