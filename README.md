@@ -17,6 +17,7 @@
 * I like anime.
 * I play osu! sometimes.
 * I enjoy clean and aesthetic setups.
+* I have one dog 🐶
 
 ---
 
@@ -39,3 +40,4 @@
 * Me gusta el anime.
 * A veces juego osu!.
 * Me gustan los setups limpios y estéticos.
+* Tengo un perro 🐶
