@@ -4,13 +4,17 @@
 
 * I enjoy programming and learning new technologies.
 * Interested in software, problem solving, and building useful things.
+* Currently using Arch Linux with Hyprland to experiment and learn.
 * Always trying to improve my skills and explore new ideas.
 
 ###  Tools:
 
-* Git & GitHub
-* Basic scripting (HTML, CSS, soon javascript)
+* Basic scripting
 * General programming tools
+* HTML
+* CSS
+* JavaScript (soon)
+* React (soon)
 
 ###  Fun Facts:
 
@@ -28,13 +32,17 @@
 
 * Me gusta programar y aprender nuevas tecnologías.
 * Me interesa el software, resolver problemas y crear cosas útiles.
+* Actualmente uso Arch Linux con Hyprland para experimentar y aprender.
 * Siempre intento mejorar mis habilidades y explorar nuevas ideas.
 
 ###  Herramientas:
 
-* Git y GitHub
-* Scripting básico (HTML, CSS, proximamente javascript)
+* Scripting básico
 * Herramientas generales de programación
+* HTML
+* CSS
+* JavaScript (Próximamente)
+* React (Próximamente)
 
 ###  Datos curiosos:
 
