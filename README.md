@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey There 👨‍🍳
 
+i'm Isaac, a web developer 
 <!--
 **ISanHic/ISanHic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
