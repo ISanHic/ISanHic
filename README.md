@@ -22,7 +22,7 @@
 * 🎮 I like to play.
 * 🎨 I enjoy clean and aesthetic setups.
 * 🐶 I have a dog.
-* 🏁 I speedrun(https://www.speedrun.com/users/ISanHic) SM64 (Super Mario 64)
+* 🏁 I do [speedruns](https://www.speedrun.com/users/ISanHic) SM64 (Super Mario 64)
 
 ---
 
@@ -50,4 +50,4 @@
 * 🎮 Me gusta jugar.
 * 🎨 Me gustan los setups limpios y estéticos.
 * 🐶 Tengo un perro
-* 🏁 Hago speedrun(https://www.speedrun.com/users/ISanHic) de SM64 (Super Mario 64)
+* 🏁 Hago [speedruns](https://www.speedrun.com/users/ISanHic) de SM64 (Super Mario 64)
