@@ -19,10 +19,10 @@
 ###  Fun Facts:
 
 * 🎌 I like anime.
-* 🎮 I play osu! sometimes.
+* 🎮 I like to play.
 * 🎨 I enjoy clean and aesthetic setups.
 * 🐶 I have a dog.
-* 🏁 I speedrun SM64 (Super Mario 64)
+* 🏁 I speedrun(https://www.speedrun.com/users/ISanHic) SM64 (Super Mario 64)
 
 ---
 
@@ -47,7 +47,7 @@
 ###  Datos curiosos:
 
 * 🎌 Me gusta el anime.
-* 🎮 A veces juego osu!.
+* 🎮 Me gusta jugar.
 * 🎨 Me gustan los setups limpios y estéticos.
 * 🐶 Tengo un perro
-* 🏁 Hago speedrun de SM64 (Super Mario 64)
+* 🏁 Hago speedrun(https://www.speedrun.com/users/ISanHic) de SM64 (Super Mario 64)
