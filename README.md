@@ -4,7 +4,7 @@
 
 * I enjoy programming and learning new technologies.
 * Interested in software, problem solving, and building useful things.
-* Currently using Arch Linux with Hyprland to experiment and learn.
+* Currently using Arch Linux with Kde Plasma to experiment and learn.
 * Always trying to improve my skills and explore new ideas.
 
 ###  Tools:
@@ -32,7 +32,7 @@
 
 * Me gusta programar y aprender nuevas tecnologías.
 * Me interesa el software, resolver problemas y crear cosas útiles.
-* Actualmente uso Arch Linux con Hyprland para experimentar y aprender.
+* Actualmente uso Arch Linux con Kde Plasma para experimentar y aprender.
 * Siempre intento mejorar mis habilidades y explorar nuevas ideas.
 
 ###  Herramientas:
